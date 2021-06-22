@@ -1,9 +1,13 @@
-<h1 align="center">Hey, I'm Soumik Paul</h1>
+<h1 align="center">Hey! I'm Soumik Paul</h1>
 <h3 align="center">Passionate mobile developer | SDE Intern at Ombré</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumik43&label=Profile%20views&color=0e75b6&style=flat" alt="soumik43" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumik43" alt="soumik43" /></a> </p>
 
 - 🌱 I’m currently learning **Mobile development using Flutter**
+
+- 💬 Ask me about **Mobile development, Flutter**
 
 - 📫 How to reach me **soumik43@yahoo.com**
 
