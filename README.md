@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **soumik43@yahoo.com**
 
-- 📄 Know about my experiences and achievements [Resume](https://drive.google.com/file/d/1N5hQR6mECqK4vS-zlVMZegcaS5mC8wC3/view?usp=sharing)
+- 📄 Know about my experiences and achievements **[Resume](https://drive.google.com/file/d/1N5hQR6mECqK4vS-zlVMZegcaS5mC8wC3/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
