@@ -1,5 +1,5 @@
 <h1 align="center">Hey! I'm Soumik Paul</h1>
-<h3 align="center">Passionate mobile developer | Looking for Summer SDE Internship</h3>
+<h3 align="center">Passionate mobile developer | Looking for SDE Internship</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumik43&label=Profile%20views&color=0e75b6&style=flat" alt="soumik43" /> </p>
 
